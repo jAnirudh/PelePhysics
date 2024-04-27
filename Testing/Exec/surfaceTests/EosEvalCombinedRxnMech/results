@@ -1,0 +1,11 @@
+Initializing SUNDIALS with 1 threads...
+SUNDIALS initialized.
+AMReX (33840fea08e0) initialized
+
+Surface Cp = 90066576.45
+
+Surface Cv = 90066576.45
+
+Surface Species in Reaction Mechanism:
+PT(S)	H(S)	H2O(S)	OH(S)	CO(S)	CO2(S)	CH3(S)	CH2(S)s	CH(S)	C(S)	O(S)	
+AMReX (33840fea08e0) finalized

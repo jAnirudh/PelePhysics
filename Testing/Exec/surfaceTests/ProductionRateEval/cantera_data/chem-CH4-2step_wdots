@@ -1,0 +1,6 @@
+wdot_O2: -0.004186767021736073 gram / centimeter ** 3 / second
+wdot_H2O: 0.0031428884262172775 gram / centimeter ** 3 / second
+wdot_CH4: -0.0013994271168971352 gram / centimeter ** 3 / second
+wdot_CO: 0.0024433057124159294 gram / centimeter ** 3 / second
+wdot_CO2: 0.0 gram / centimeter ** 3 / second
+wdot_N2: 0.0 gram / centimeter ** 3 / second

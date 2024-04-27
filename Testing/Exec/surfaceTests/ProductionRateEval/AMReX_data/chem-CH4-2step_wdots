@@ -1,0 +1,10 @@
+Initializing SUNDIALS with 1 threads...
+SUNDIALS initialized.
+AMReX (60595c034737-dirty) initialized
+wdot_O2 = -0.004187299271
+wdot_H2O = 0.003143287971
+wdot_CH4 = -0.001399605021
+wdot_CO = 0.002443616322
+wdot_CO2 = 0
+wdot_N2 = 0
+AMReX (60595c034737-dirty) finalized

@@ -1,0 +1,9 @@
+The tests to evaluate transport are to be conducted as follows.
+
+1.) Compile both the surfaceTests/TransEval and
+    surfaceTests/TranEvalCombinedRxnMech cases. These cases make use
+    of the CH4Pt_GASPHASE and CH4Pt reaction mechanisms
+2.) Run the executables
+3.) execute diff on the resulting pltfiles. There should be no
+    differences in the pltfile results obtained from both reaction
+    mechanisms

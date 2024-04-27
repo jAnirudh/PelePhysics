@@ -1,0 +1,36 @@
+Initializing SUNDIALS with 1 threads...
+SUNDIALS initialized.
+AMReX (60595c034737-dirty) initialized
+wdot_H2 = 1620.336306
+wdot_H = -479.0198051
+wdot_O = 81975.72486
+wdot_O2 = -4773.308746
+wdot_OH = -102677.0364
+wdot_H2O = 1422.246201
+wdot_HO2 = -7537.849084
+wdot_H2O2 = 236.7244693
+wdot_C = -136.8629063
+wdot_CH = -10652.35637
+wdot_CH2 = -10156.23086
+wdot_CH2(S) = -9159.616723
+wdot_CH3 = 1924.740009
+wdot_CH4 = 3611.454698
+wdot_CO = 40337.75528
+wdot_CO2 = 1184.141504
+wdot_HCO = 427.6539689
+wdot_CH2O = 1886.114595
+wdot_CH2OH = -2867.625323
+wdot_CH3O = -2163.588966
+wdot_CH3OH = 6066.7281
+wdot_C2H = -160855.1939
+wdot_C2H2 = 172761.6353
+wdot_C2H3 = -836.3835566
+wdot_C2H4 = 6503.299596
+wdot_C2H5 = -7188.083093
+wdot_C2H6 = 52.81622697
+wdot_HCCO = -17730.80418
+wdot_CH2CO = 17880.01848
+wdot_HCCOH = -677.4297483
+wdot_AR = 0
+wdot_N2 = 0
+AMReX (60595c034737-dirty) finalized

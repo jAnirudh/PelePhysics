@@ -1,5 +1,5 @@
 PELE_HOME         ?= ../../../..
-PELE_PHYSICS_HOME ?= $(abspath $(lastword $(PELE_HOME)/Submodules/PelePhysics))
+PELE_PHYSICS_HOME ?= ../../
 AMREX_HOME        ?= $(abspath $(lastword $(PELE_PHYSICS_HOME)/Submodules/amrex))
 SUNDIALS_HOME     ?= $(abspath $(lastword $(PELE_PHYSICS_HOME)/Submodules/sundials))
 

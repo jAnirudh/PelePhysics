@@ -1,0 +1,6 @@
+Test for evaluating production rates in the gas phase.
+Production rates are evaluated in CGS system and have the
+units gram/cm^3/s.
+
+1.) Run the run.py script
+2.) Open the log file to see information

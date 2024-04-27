@@ -1,0 +1,18 @@
+********************
+Case: CH4Pt_GASPHASE
+********************
+	AMReX output is written in AMReX_data/CH4Pt_GASPHASE_wdots
+	Cantera output is written in cantera_data/CH4Pt_GASPHASE_wdots
+
+*****************************
+Case: chem-CH4-2step-original
+*****************************
+	AMReX output is written in AMReX_data/chem-CH4-2step-original_wdots
+	Cantera output is written in cantera_data/CH4Pt_GASPHASE_wdots
+
+********************
+Case: chem-CH4-2step
+********************
+	AMReX output is written in AMReX_data/chem-CH4-2step_wdots
+	Cantera output is written in cantera_data/chem-CH4-2step_wdots
+

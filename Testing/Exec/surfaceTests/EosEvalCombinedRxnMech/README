@@ -1,0 +1,9 @@
+1. You may choose to clean previous compilation and remove the
+   pltfiles by executing "make clean" and "rm -rf plt*"
+2. Create the executable by executing "make"
+3. Run the executable "./Pele2d.gnu.ex"
+4. Open the pltfile in paraview and export the data to AMReX_results.csv
+5. Execute "python plot.py" to generate the validation plots
+
+Note: you need to first execute make TPL to avoid the following
+fatal error: sundials/sundials_nvector.h: No such file or directory
